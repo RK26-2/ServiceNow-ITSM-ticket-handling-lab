@@ -117,9 +117,11 @@ This lab workbook serves as practical proof of hands-on capability in **ServiceN
    * **Resolution Notes:** *Item is a standard fulfillment request. Guided caller to Service Catalog and placed Request on user's behalf. Closing incident.*
    * Changed **State** to `Resolved` and updated.
 
-📁 **Reference Screenshot:** [Lab snapshots](/images)
+📁 **Reference Screenshot:** [Lab snapshots](/image)
+
 
 📁 **Full PDF report:** [Full report](/ServiceNow_Tickets-Handling.pdf)
+
 ---
 
 ## Conclusion
